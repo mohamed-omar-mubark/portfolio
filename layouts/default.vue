@@ -17,6 +17,10 @@
 </template>
 
 <script setup>
+const colorMode = useColorMode();
+console.log(colorMode.preference);
+colorMode.preference = "light";
+
 useHead({
   titleTemplate: "%s - Mohamed Omar",
   link: [
@@ -36,5 +40,8 @@ useHead({
 <style>
 body {
   font-family: "Roboto";
+}
+body {
+  @apply bg-white dark:bg-gray-900 text-gray-700 dark:text-gray-300;
 }
 </style>
