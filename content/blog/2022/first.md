@@ -1,5 +1,5 @@
 ---
-publishedAt: 2022-07-12 17:15:00
+publishedAt: 2023-01-02 17:15:00
 ---
 
-# First post on our website in 2022
+# First post on our website in 2023
