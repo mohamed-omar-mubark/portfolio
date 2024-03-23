@@ -3,11 +3,11 @@ title: "About"
 description: "meta description of the page"
 ---
 
-# Hello There, I'm Piotr
+# Hello There, I'm Mohamed Omar
 
 ## About me
 
-I'm Piotr, I'm a developer and a Udemy Instructor. I'm 36, living in southern Poland with my wife and 2 golden retrievers. I'm vegan and pro-animal 🥑.
+I'm Mohamed Omar, I'm a front-end engineer with +4 years of hands-on experience. I'm 27, living in Ismailia,Egypt with my family. And I'm seeking to leverage broad development experience and technical expertise in a challenging role as a front-end engineer.
 
 ## What I teach on Udemy
 
